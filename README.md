@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-This Project is analyzing disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+This Project is analyzing disaster data from Figure Eight, to build a model for an API that classifies disaster messages.
 
 data directory contains a data set which are real messages that were sent during disaster events. I will be creating a machine learning pipeline to categorize these events so that appropriate disaster relief agency can be reached out for help.
 
